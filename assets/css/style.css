@@ -1,15 +1,55 @@
 body{
     font-size: 30px;
-    line-height: 40px;
-    font-family: Arial, Helvetica, sans-serif;
-    /* text-align: center; */
+    /* line-height: 40px; */
+    font-family: 'Open Sans', sans-serif;
+    text-align: center;
+    background-color: #FB9832;
 }
 
 #form{
     font-size: 20px;
 }
 
+h1{
+    font-family: 'Slabo 27px', serif;
+    color: rgb(255, 255, 255);
+}
+
 button{
+    font-size: 20px;
+    padding: 10px;
+    box-sizing: border-box;
     margin: 5px;
-    background-color: aquamarine;
+    background-color:rgb(255, 255, 255);
+}
+
+#add-celeb{
+    font-size: 20px;
+    padding: 10px;
+    box-sizing: border-box;
+    margin: 5px;
+    background-color: rgb(255, 255, 255);
+}
+
+.row{
+    width: 80%;
+    margin: 0 auto;
+    margin-top: 2%;
+}
+
+.column{
+    margin: 3% 0%;
+    width: 100%;
+}
+
+#celeb-input{
+    width: 200px;
+    height: 30px;;
+    font-size: 28px;
+}
+
+p{
+    color: rgb(255, 255, 255);
+    top: 0;
+    font-size: 18px;
 }
