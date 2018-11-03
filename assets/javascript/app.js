@@ -1,6 +1,6 @@
 // create variable for initial array and for new array
 $(document).ready(function(){
-var celebs = ["Rainn Wilson", "Jenna Fischer", "Steve Carell", "John Krasinski"];
+var celebs = ["Michael Scott", "Pam Beesly", "Jim Halpert", "Dwight Schrute"];
 topics = "";
 
 // function to get the gif and the rating by using AJAX method 
